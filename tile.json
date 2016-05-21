@@ -2,7 +2,7 @@
 	"action" : {
 		"type": "url",
 		"text" : "this is a sample action text",
-		"link": "www.google.com",
+		"link": "http://www.google.com",
 		"description" : "this is alt text"
 	},
 	"video" : "https://youtu.be/1JRjzNm4cUc",
